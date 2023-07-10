@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842823765362",
+    "project_id": "trackvault-e3d09",
+    "storage_bucket": "trackvault-e3d09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842823765362:android:ab1ae0db8399ba471421eb",
+        "android_client_info": {
+          "package_name": "com.example.trackvault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842823765362-5o69hed33sdh6d49len4vrd9di88giu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOe9LuCWDrDdRse7zZtsASbJQaUQ7MDrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842823765362-5o69hed33sdh6d49len4vrd9di88giu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
